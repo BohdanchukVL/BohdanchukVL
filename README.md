@@ -1,7 +1,6 @@
 ## Bohdan Lashta
 
 Full-Stack Engineer · TypeScript · React Native · Next.js · Node.js
- ·  Spain
 
 ---
 
